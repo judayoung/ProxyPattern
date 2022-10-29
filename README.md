@@ -7,4 +7,5 @@ Proxy Pattern with image example
 # 상세 내용
 Proxy에 객체를 필드로 두고, Proxy 객체만 생성한다. 객체를 생성하는 조건은 목적에 따라서.
 
+<br>
 * 추후 Vitual Proxy, Remote Proxy 내용 추가하기.
